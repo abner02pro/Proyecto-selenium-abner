@@ -1,5 +1,5 @@
 const { pruebaRegistro } = require('./pruebaRegistro');
-const { pruebaLogin } = require('./pruebalogin');
+const { pruebaLogin } = require('./pruebaLogin');
 
 (async () => {
   console.log(' Iniciando pruebas automatizadas...\n');
